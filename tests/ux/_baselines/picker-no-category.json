@@ -1,0 +1,10 @@
+{
+  "visible": true,
+  "hasSearchInput": true,
+  "hasPreview": true,
+  "hasSkinToneButton": true,
+  "navLabels": [],
+  "navCount": 0,
+  "tileSize": 36,
+  "firstTileHasSpriteBackground": true
+}
