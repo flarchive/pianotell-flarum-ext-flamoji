@@ -1,0 +1,19 @@
+{
+  "visible": true,
+  "hasSearchInput": false,
+  "hasPreview": true,
+  "hasSkinToneButton": true,
+  "navLabels": [
+    "Smileys & People",
+    "Animals & Nature",
+    "Food & Drink",
+    "Activities",
+    "Travel & Places",
+    "Objects",
+    "Symbols",
+    "Flags"
+  ],
+  "navCount": 8,
+  "tileSize": 36,
+  "firstTileHasSpriteBackground": true
+}
