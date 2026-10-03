@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of pianotell/flarum-ext-flamoji.** Not for installation: use [Packagist](https://packagist.org/packages/pianotell/flarum-ext-flamoji) or the [upstream repository](https://github.com/PrimateCoder/flarum-flamoji).
 
-**0** versions archived · Latest: [`v2.6.1`](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v2.6.1) · License: `MIT` · Flarum: `^2.0.0-beta`
+**20** versions archived · Latest: [`v2.6.1`](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v2.6.1) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-04-22 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v0.1.0) |
+| `v1.1.0` | 2026-05-04 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v1.1.0) |
+| `v1.3.0` | 2026-06-28 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v1.3.0) |
+| `v1.4.0` | 2026-07-01 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v1.4.0) |
+| `v1.5.0` | 2026-07-02 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v1.5.0) |
+| `v1.6.0` | 2026-09-07 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v1.6.0) |
+| `v1.6.1` | 2026-09-22 | `^1.8.0` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v1.6.1) |
+| `v2.0.0` | 2026-04-25 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v2.0.0) |
+| `v2.0.0-alpha.1` | 2026-04-24 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v2.0.0-alpha.1) |
+| `v2.0.1` | 2026-04-26 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tree/archive/v2.0.1) |
+
+[View all 20 versions](https://github.com/flarchive/pianotell-flarum-ext-flamoji/tags)
 
 Catalog entry: [packages/pianotell-flarum-ext-flamoji.json](https://github.com/flarchive/archive-index/blob/main/packages/pianotell-flarum-ext-flamoji.json)
 
